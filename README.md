@@ -2,6 +2,26 @@
 <p align="center"> <a><img src="https://img.shields.io/badge/build-passing-00c853?style=flat-square"></a> <a><img src="https://img.shields.io/badge/demo-prototype-blue?style=flat-square"></a> <a><img src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square"></a> </p>
 MyLayak — Zero-Trust Eligibility Kiosk (Prototype)
 
+<p align="center">
+  <img src="https://dummyimage.com/1300x260/0a0a0a/00eaff&text=MyLayak+Kiosk+Prototype" width="100%">
+</p>
+
+<h1 align="center">MyLayak — Zero-Trust Eligibility Kiosk (Prototype)</h1>
+
+<h3 align="center">
+A frictionless, form-free public service experience powered by MyDigital ID
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/build-passing-00c853?style=flat-square">
+  <img src="https://img.shields.io/badge/demo-prototype-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square">
+</p>
+
+---
+
+
+
 MyLayak is a UI/UX prototype demonstrating how citizens can securely check and activate public services using MyDigital ID.
 It showcases a form-free, frictionless eligibility experience powered by Soulbound Eligibility Tokens (SETs).
 
