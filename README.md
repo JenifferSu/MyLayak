@@ -17,14 +17,23 @@ A frictionless, form-free public service experience powered by MyDigital ID
 ---
 
 # 📌 Overview
-MyLayak is a **UI/UX prototype** demonstrating how citizens can securely check and activate public services using **MyDigital ID**.  
-It showcases a **form-free, frictionless eligibility experience** powered by **Soulbound Eligibility Tokens (SETs)**.
+**MYLAYAK** is a **Proactive Eligibility Wallet** that fixes Malaysia’s biggest subsidy problem — eligibility doesn’t equal receiving. Today, millions of citizens qualify for support but miss out due to forms, scattered systems, and scams that make the process confusing and unsafe.
 
-No real backend, identity data, or government systems are connected.  
-This is strictly a **concept and interaction prototype**.
+MYLAYAK **changes this by using MyDigital ID, Soulbound Eligibility Tokens (SET), and zero-trust security to instantly verify a citizen’s status without exposing any personal data.**
+It brings all verified eligibilities like B40, student, senior, STR into one secure wallet, then automatically matches citizens to the services they already qualify for. No applications. No repeated uploads. No fraud.
+
+**MYLAYAK makes benefits find the people securely, instantly, and for everyone.**
+
+---
+# ✨ Demo Video
+https://drive.google.com/file/d/1QCTIazM7nm3ti-F-MBouihEPaNxLo0eW/view?usp=sharing
 
 ---
 
+# ✨ Prototype Link
+[https://drive.google.com/file/d/1QCTIazM7nm3ti-F-MBouihEPaNxLo0eW/view?usp=sharing](https://www.figma.com/make/CgL8fGinH1rMeIDd1dthQV/Government-Digital-Service-Kiosk?node-id=0-1&p=f)
+
+---
 # ✨ Key Features
 
 ## • **Form-Free, Instant Authentication**
@@ -89,10 +98,6 @@ Start development server:
 npm run dev
 
 ---
-
-# 📁 Project Status
-This repository contains UI/UX screens only.
-It is intended for demonstration, pitching, and concept validation, not production use.
 
 # 📘 License
 MIT License.
