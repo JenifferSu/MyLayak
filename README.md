@@ -20,8 +20,14 @@ MyLayak is a zero-trust eligibility platform that lets citizens instantly discov
 # 📌 Overview
 **MYLAYAK** is a **Proactive Eligibility Wallet** that fixes Malaysia’s biggest subsidy problem — eligibility doesn’t equal receiving. Today, millions of citizens qualify for support but miss out due to forms, scattered systems, and scams that make the process confusing and unsafe.
 
-MYLAYAK **changes this by using MyDigital ID Steganography QR, Soulbound Eligibility Tokens (SET), and zero-trust security to instantly verify a citizen’s status without exposing any personal data.**
-It brings all verified eligibilities like B40, student, senior, STR into one secure wallet, then automatically matches citizens to the services they already qualify for. No applications. No repeated uploads. No fraud.
+MyLayak changes this by combining **MyDigital ID steganographic QR verification**, **Soulbound Eligibility Tokens (SETs)**, and a **zero-trust security architecture** to instantly verify eligibility **without exposing any personal data**.
+
+It consolidates verified eligibility attributes such as **B40**, **student**, **senior citizen**, and **STR-related status** into a single secure wallet, then automatically matches citizens to services they already qualify for.
+
+**No applications. No repeated uploads. No fraud.**
+
+**MyLayak makes benefits find the people — securely, instantly, and for everyone.**
+
 
 **MYLAYAK makes benefits find the people securely, instantly, and for everyone.**
 
