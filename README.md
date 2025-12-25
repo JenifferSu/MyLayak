@@ -6,7 +6,7 @@
 
 <h3 align="center">
 MyLayak is a zero-trust eligibility platform that lets citizens instantly discover government services they already qualify for — without exposing personal data.
-A frictionless, form-free public service experience powered by MyDigital ID
+
 </h3>
 
 <p align="center">
