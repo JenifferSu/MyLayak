@@ -2,9 +2,10 @@
   <img src="https://dummyimage.com/1300x260/0a0a0a/00eaff&text=MyLayak+Kiosk+Prototype" width="100%">
 </p>
 
-<h1 align="center">MyLayak — Zero-Trust Eligibility Kiosk (Prototype)</h1>
+<h1 align="center">MyLayak — Zero-Trust Eligibility Kiosk </h1>
 
 <h3 align="center">
+MyLayak is a zero-trust eligibility platform that lets citizens instantly discover government services they already qualify for — without exposing personal data.
 A frictionless, form-free public service experience powered by MyDigital ID
 </h3>
 
